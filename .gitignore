@@ -1,0 +1,10 @@
+# Notes, AI and editor files stay out of the site.
+*.md
+CLAUDE.md
+AGENTS.md
+.claude/
+.cursor/
+.github/copilot-instructions.md
+.vscode/
+.idea/
+.DS_Store
